@@ -1,4 +1,4 @@
-Hello 👋 My name is Petr Pivoňka and my alias is BigBang1112. I'm a 20 years old student of Business Informatics in University of South Bohemia in České Budějovice. I'm majorly focused around C#/.NET tool and web development, but I also know basics of SQL, Python, Lua, PHP, and Trackmania's scripting language ManiaScript.
+Hello 👋 My name is Petr Pivoňka and my alias is BigBang1112. I'm a 20 years old student of Business Informatics at University of South Bohemia in České Budějovice. I'm majorly focused around C#/.NET tool and web development, but I also know basics of SQL, Python, Lua, PHP, and Trackmania's scripting language ManiaScript.
 
 I'm passionate about coding from the age of 9 and my passion hasn't got any lower since then. I also participated in several programming competitions.
 
