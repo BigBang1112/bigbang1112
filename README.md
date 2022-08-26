@@ -1,4 +1,8 @@
-### Hi there 👋
+Hello 👋 My name is Petr Pivoňka and my alias is BigBang1112. I'm a 20 years old student of Business Informatics in University of South Bohemia in České Budějovice. I'm majorly focused around C#/.NET tool and web development, but I also know basics of SQL, Python, Lua, PHP, and Trackmania's scripting language ManiaScript.
+
+I'm passionate about coding from the age of 9 and my passion hasn't got any lower since then. I also participated in several programming competitions.
+
+My projects are usually surrounded around the game Trackmania for its endless exploration capabilities. I like opening things up, but I also respect the security.
 
 <!--
 **BigBang1112/bigbang1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
