@@ -6,7 +6,7 @@ I touched my first coding book (website development respectively) when I was 9 y
 
 I'm currently studying Business Informatics at University of South Bohemia in České Budějovice.
 
-- 3 years of active C#/.NET experience (11 years of total experience)
+- 3 years of active C#/.NET experience (9 years of total experience)
 - Basics: SQL, Python, Lua, PHP
 - 3rd in national programming competition (2021)
 - Good knowledge of ManiaScript
