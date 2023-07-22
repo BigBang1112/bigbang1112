@@ -2,7 +2,7 @@ Hello 👋
 
 My name is Petr Pivoňka and I do stuff under the alias BigBang1112.
 
-I touched my first coding book (website development respectively) when I was 9 years old, and got introduced to C# when I was 12 thanks to the amazing [thenewboston YouTube tutorials](https://www.youtube.com/watch?v=x_9lfHjYtVg&list=PL0EE421AE8BCEBA4A) (because I wanted to make a Windows app). This is where I found my developer-self and it changed everything.
+I touched my first coding book (website development respectively) when I was 9 years old, and got introduced to C# when I was 12 thanks to the amazing [thenewboston YouTube tutorials](https://www.youtube.com/watch?v=x_9lfHjYtVg&list=PL0EE421AE8BCEBA4A) (because I wanted to make a Windows app). This is where I found my developer-self and it changed everything in my life.
 
 I'm currently studying Business Informatics at University of South Bohemia in České Budějovice.
 
