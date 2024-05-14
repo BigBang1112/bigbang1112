@@ -27,3 +27,5 @@ I'm an "occasional" videomaker with [over 300 videos on YouTube](https://www.you
 Blazor, ASP.NET Core, EF Core, Discord.NET, Source Generators (Roslyn), GitHub Actions, Docker, SQL, Python, PHP, Terraform
 
 *(ordered by more experienced to less experienced)*
+
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bigbang1112&theme=nord_dark)
