@@ -25,3 +25,5 @@ I'm an "occasional" videomaker with [over 300 videos on YouTube](https://www.you
 ### Additional experience
 
 Blazor, ASP.NET Core, EF Core, Discord.NET, Source Generators (Roslyn), GitHub Actions, Docker, SQL, Python, PHP, Terraform
+
+*(ordered by more experienced to less experienced)*
