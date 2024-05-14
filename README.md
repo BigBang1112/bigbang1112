@@ -1,41 +1,27 @@
 Hello 👋
 
-My name is Petr Pivoňka and I do stuff under the alias BigBang1112.
+My name is Petr Pivoňka and I do stuff under the alias BigBang1112 and/or Realnest.
 
-I touched my first coding book (website development respectively) when I was 9 years old, and got introduced to C# when I was 12 thanks to the amazing [thenewboston YouTube tutorials](https://www.youtube.com/watch?v=x_9lfHjYtVg&list=PL0EE421AE8BCEBA4A) (because I wanted to make a Windows app). This is where I found my developer-self and it changed everything in my life.
+My development journey started when I was 9 years old (web development), and accelerated with [thenewboston C# YouTube tutorials](https://www.youtube.com/watch?v=x_9lfHjYtVg&list=PL0EE421AE8BCEBA4A). I enjoyed attending programming competitions in České Budějovice until high school (my best being 3rd in CZ) and somehow went nuts in Trackmania coding projects, earlier with ManiaScript (ingame scripting language), but now with C#.
 
-I'm currently studying Business Informatics at University of South Bohemia in České Budějovice.
+I'm trying my best at **C#**, Lua, and I'm currently learning Rust.
 
-- 3 years of active C#/.NET experience (9 years of total experience)
-- Basics: SQL, Python, Lua, PHP
-- 3rd in national programming competition (2021)
-- Good knowledge of ManiaScript
-- Produced over [300 videos on YouTube](https://www.youtube.com/@BigBang1112tm)
-- 50+ finished (200+ unfinished) musical projects
+I'm an "occasional" videomaker with [over 300 videos on YouTube](https://www.youtube.com/@BigBang1112tm) and I also produce Drum & Bass music under Realnest moniker with 50+ finished (200+ unfinished) musical projects.
 
-My personal and more technical projects are usually related to the game Trackmania for its endless exploration capabilities.
+### Some of my currently active projects
 
-Some of my currently active projects:
-
-- GBX.NET
-- Gbx Web Tools
-- Randomizer TMF
-- ManiaAPI.NET
-- TmEssentials
+- **[GBX.NET](https://github.com/BigBang1112/gbx-net)** (Gbx Explorer + Discord Bot)
+- [Randomizer TMF](https://github.com/BigBang1112/randomizer-tmf)
+- [ManiaAPI.NET](https://github.com/BigBang1112/maniaapi-net) (v2 *almost* there)
+- [TmEssentials](https://github.com/BigBang1112/tm-essentials)
 - [ManiaScript Reference](https://github.com/BigBang1112/maniascript-reference)
+- [Gbx Addions for Windows File Explorer](https://github.com/BigBang1112/win-file-explorer-gbx-addons)
+- [BigBang1112.cz](https://github.com/bigbang1112-cz) - large set of projects, planned to be entirely reworked
+  - Gbx Web Tools - large set of online + offline Gbx file tools
+  - [World Record Report](https://github.com/bigbang1112-cz/world-record-report) - tracker of Top 10 records (TM2020, TM2, and TMF) with a Discord bot (in 160+ servers)
+  - Personal web page
 - .. a couple more I work on in secret!
 
-<!--
-**BigBang1112/bigbang1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Additional experience
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Blazor, ASP.NET Core, SQL, Python, PHP, Terraform
