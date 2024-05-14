@@ -6,7 +6,7 @@ My development journey started when I was 9 years old with web development, and 
 
 I'm trying my best at **C#**, Lua, and I'm currently learning Rust.
 
-I'm an "occasional" videomaker with [over 300 videos on YouTube](https://www.youtube.com/@BigBang1112tm) and I also produce Drum & Bass music under Realnest moniker with 50+ finished (200+ unfinished) musical projects.
+I'm an "occasional" videomaker with [over 300 videos on YouTube](https://www.youtube.com/@BigBang1112tm) and I also produce Drum & Bass music [under the Realnest moniker](https://www.youtube.com/@RealnestMusic) with 50+ finished (200+ unfinished) musical projects.
 
 ### Some of my currently active projects
 
