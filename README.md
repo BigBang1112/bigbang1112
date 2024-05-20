@@ -16,6 +16,7 @@ I'm an "occasional" videomaker with [over 300 videos on YouTube](https://www.you
 - [TmEssentials](https://github.com/BigBang1112/tm-essentials)
 - [ManiaScript Reference](https://github.com/BigBang1112/maniascript-reference)
 - [Gbx Addons for Windows File Explorer](https://github.com/BigBang1112/win-file-explorer-gbx-addons)
+- [Trackmania Turbo Records](https://github.com/BigBang1112/tmturbo-records) - CC0 project!
 - [BigBang1112.cz](https://github.com/bigbang1112-cz) - large set of projects, planned to be entirely reworked
   - Gbx Web Tools - large set of online + offline Gbx file tools
   - [World Record Report](https://github.com/bigbang1112-cz/world-record-report) - tracker of Top 10 records (TM2020, TM2, and TMF) with a Discord bot (in 160+ servers)
