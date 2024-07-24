@@ -11,6 +11,7 @@ I'm an "occasional" videomaker with [over 300 videos on YouTube](https://www.you
 ### Some of my currently active projects
 
 - **[GBX.NET](https://github.com/BigBang1112/gbx-net)** (Gbx Explorer + Discord Bot)
+- [Gbx I/O](https://github.com/BigBang1112/gbx-io)
 - [Randomizer TMF](https://github.com/BigBang1112/randomizer-tmf)
 - [ManiaAPI.NET](https://github.com/BigBang1112/maniaapi-net) (v2 *almost* there)
 - [TmEssentials](https://github.com/BigBang1112/tm-essentials)
