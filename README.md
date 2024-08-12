@@ -4,7 +4,9 @@ My name is Petr Pivoňka and I do stuff under the alias BigBang1112 and/or Realn
 
 My development journey started when I was 9 years old with web development, and accelerated with [thenewboston C# YouTube tutorials](https://www.youtube.com/watch?v=x_9lfHjYtVg&list=PL0EE421AE8BCEBA4A). I enjoyed attending programming competitions in České Budějovice until the end of high school (my best being 3rd in CZ) and somehow went nuts in Trackmania coding projects, earlier with ManiaScript (ingame scripting language), but now with C#.
 
-I'm trying my best at **C#**, Lua, and I'm currently learning Rust.
+I have 4 years of active C# experience (10 years since I first started using the language), but I still don't know how to properly write my own Stream implementations. Oops
+
+I'm also interested in Lua and I'm actively learning Rust.
 
 I'm an "occasional" videomaker with [over 300 videos on YouTube](https://www.youtube.com/@BigBang1112tm) and I also produce Drum & Bass music [under the Realnest moniker](https://www.youtube.com/@RealnestMusic) with 50+ finished (200+ unfinished) musical projects.
 
