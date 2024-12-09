@@ -22,7 +22,7 @@ I'm an "occasional" videomaker with [over 300 videos on YouTube](https://www.you
 - [Trackmania Turbo Records](https://github.com/BigBang1112/tmturbo-records) - CC0 project!
 - [NativeSharpLzo](https://github.com/BigBang1112/NativeSharpLzo) - fork of [SharpLzo](https://github.com/wtfblub/SharpLzo)
 - [NativeSharpZlib](https://github.com/BigBang1112/NativeSharpZlib) - same idea as above but for zlib
-- [NativeSharpLua](https://github.com/BigBang1112/NativeSharpLua) - same idea as above, soon
+- NativeSharpLua - same idea as above, soon
 - [MinimalXmlReader](https://github.com/BigBang1112/minimal-xmlreader)
 - [BigBang1112.cz](https://github.com/bigbang1112-cz) - a large set of web projects, planned to be entirely reworked
   - Gbx Web Tools - large set of online + offline Gbx file tools
