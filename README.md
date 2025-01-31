@@ -2,7 +2,7 @@ Hello 👋
 
 My name is Petr Pivoňka and I do stuff under the alias BigBang1112 and/or Realnest.
 
-I have 4 years of active C# experience, and I know the language for over 10 years, when I started using it as a kid to create stuff with.
+I have 4 years of active C# experience, and I know the language for over 10 years, since I started using it as a kid to create stuff with.
 
 My development journey started when I was 9 years old with web development, and accelerated with [thenewboston C# YouTube tutorials](https://www.youtube.com/watch?v=x_9lfHjYtVg&list=PL0EE421AE8BCEBA4A). I enjoyed attending programming competitions in České Budějovice until the end of high school (my best being 3rd in CZ). Since 2018, I somehow went nuts with Trackmania coding projects, earlier with ManiaScript (ingame scripting language), but since 2020, I switched from it and made various frontends and backends with C#.
 
