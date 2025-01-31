@@ -6,7 +6,7 @@ I have 4 years of active C# experience, and I know the language for over 10 year
 
 My development journey started when I was 9 years old with web development, and accelerated with [thenewboston C# YouTube tutorials](https://www.youtube.com/watch?v=x_9lfHjYtVg&list=PL0EE421AE8BCEBA4A). I enjoyed attending programming competitions in České Budějovice until the end of high school (my best being 3rd in CZ). Since 2018, I somehow went nuts with Trackmania coding projects, earlier with ManiaScript (ingame scripting language), but since 2020, I switched from it and made various frontends and backends with C#.
 
-I worked with Python, PHP, and on a real-world Rust application as well. I'm also interested in Lua.
+Aside C#, I worked with Python, PHP, and on a real-world Rust application as well. I'm also interested in Lua.
 
 I'm an "occasional" videomaker with [over 300 videos on YouTube](https://www.youtube.com/@BigBang1112tm) and I also produce Drum & Bass music [under the Realnest moniker](https://www.youtube.com/@RealnestMusic) with 50+ finished (200+ unfinished) musical projects.
 
