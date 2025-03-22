@@ -2,9 +2,9 @@ Hello 👋
 
 My name is Petr Pivoňka and I do stuff under the alias BigBang1112 and/or Realnest.
 
-I have 4 years of active C# experience, and I know the language for over 10 years, since I started using it as a kid to create stuff with.
+I have 4 years of active C# experience, and I know the language for over 10 years since I started using it as a kid to create stuff with.
 
-My development journey started when I was 9 years old with web development, and accelerated with [thenewboston C# YouTube tutorials](https://www.youtube.com/watch?v=x_9lfHjYtVg&list=PL0EE421AE8BCEBA4A). I enjoyed attending programming competitions in České Budějovice until the end of high school (my best being 3rd in CZ). Since 2018, I somehow went nuts with Trackmania coding projects, earlier with ManiaScript (ingame scripting language), but since 2020, I switched from it and made various frontends and backends with C#.
+My development journey started when I was 9 years old with web development and accelerated with [thenewboston C# YouTube tutorials](https://www.youtube.com/watch?v=x_9lfHjYtVg&list=PL0EE421AE8BCEBA4A). I enjoyed attending programming competitions in České Budějovice until the end of high school (my best being 3rd in CZ). Since 2018, I somehow went nuts with Trackmania coding projects, earlier with ManiaScript (ingame scripting language), but since 2020, I switched from it and made various frontends and backends with C#.
 
 Aside C#, I worked with Python, PHP, and on a real-world Rust application as well. I'm also interested in Lua.
 
@@ -16,7 +16,7 @@ I'm an "occasional" videomaker with [over 300 videos on YouTube](https://www.you
 - **[Nations Converter](https://github.com/BigBang1112/nations-converter)** (tool + website)
 - [Gbx I/O](https://github.com/BigBang1112/gbx-io)
 - [Randomizer TMF](https://github.com/BigBang1112/randomizer-tmf)
-- [ManiaAPI.NET](https://github.com/BigBang1112/maniaapi-net) (v2 *almost* there)
+- [ManiaAPI.NET](https://github.com/BigBang1112/maniaapi-net)
 - [TmEssentials](https://github.com/BigBang1112/tm-essentials)
 - [ManiaScript Reference](https://github.com/BigBang1112/maniascript-reference)
 - [Gbx Addons for Windows File Explorer](https://github.com/BigBang1112/win-file-explorer-gbx-addons)
