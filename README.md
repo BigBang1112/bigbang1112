@@ -25,12 +25,12 @@ I do stuff under the alias BigBang1112 and/or Realnest.
 - [Trackmania Turbo Records](https://github.com/BigBang1112/tmturbo-records) - CC0 project!
 - .. a couple more I work on in secret!
 
-## Fun stuff
+### Fun stuff
 
 - Videomaker with [over 300 videos on YouTube](https://www.youtube.com/@BigBang1112tm)
 - Drum & Bass music producer [under the Realnest moniker](https://www.youtube.com/@RealnestMusic) (50+ finished and 200+ unfinished musical projects)
 
-## Additional experience
+### Additional experience
 
 Aside from C#, I also worked with Python, PHP, and on a real-world Rust application. I'm also interested in Lua.
 
