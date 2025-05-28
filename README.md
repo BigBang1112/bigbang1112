@@ -14,7 +14,7 @@ I do stuff under the alias BigBang1112 and/or Realnest.
 - NativeSharp ecosystem (inspired from NativeAOT and wtfblub's SharpLzo):
   - [NativeSharpLzo](https://github.com/BigBang1112/NativeSharpLzo) - fork of [SharpLzo](https://github.com/wtfblub/SharpLzo)
   - [NativeSharpZlib](https://github.com/BigBang1112/NativeSharpZlib)
-  - NativeSharpLz4 (coming soon)
+  - [NativeSharpLz4](https://github.com/BigBang1112/NativeSharpLz4)
   - NativeSharpLua (coming soon)
 - [MinimalXmlReader](https://github.com/BigBang1112/minimal-xmlreader)
 - [Gbx I/O](https://github.com/BigBang1112/gbx-io)
