@@ -17,10 +17,13 @@ I do stuff under the alias BigBang1112 and/or Realnest.
   - [NativeSharpLz4](https://github.com/BigBang1112/NativeSharpLz4)
   - [NativeSharpLua](https://github.com/BigBang1112/NativeSharpLua)
 - [MinimalXmlReader](https://github.com/BigBang1112/minimal-xmlreader)
-- [Gbx I/O](https://github.com/BigBang1112/gbx-io)
-- [BigBang1112.cz](https://github.com/bigbang1112-cz) - a large set of web projects, planned to be entirely reworked
-  - Gbx Web Tools - large set of online + offline Gbx file tools
-  - [World Record Report](https://github.com/bigbang1112-cz/world-record-report) - tracker of Top 10 records (TM2020, TM2, and TMF) with a Discord bot (in 220+ servers)
+- Gbx Tools (large set of online + offline Gbx file tools)
+  - [Gbx I/O](https://github.com/BigBang1112/gbx-io)
+  - .. more to come!
+- [bigbang1112cz](https://github.com/bigbang1112/bigbang1112cz) - codename for my new WIP personal site made in Razor Pages
+- [BigBang1112.cz](https://github.com/bigbang1112-cz) - a large set of web projects, currently being reworked and in deprecation
+  - Gbx Web Tools - deprecated large set of online + offline Gbx file tools
+  - [World Record Report](https://github.com/bigbang1112-cz/world-record-report) - tracker of Top 10 records (TM2020, TM2, and TMF) with a Discord bot (in 240+ servers)
   - Personal web page
 - [Trackmania Turbo Records](https://github.com/BigBang1112/tmturbo-records) - CC0 project!
 - .. a couple more I work on in secret!
