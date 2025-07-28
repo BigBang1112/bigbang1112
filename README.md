@@ -18,6 +18,7 @@ I do stuff under the alias BigBang1112 and/or Realnest.
   - [NativeSharpLua](https://github.com/BigBang1112/NativeSharpLua)
 - [MinimalXmlReader](https://github.com/BigBang1112/minimal-xmlreader)
 - Gbx Tools (large set of online + offline Gbx file tools)
+  - [3D Gbx Tools](https://github.com/BigBang1112/gbx-tools-3d)
   - [Gbx I/O](https://github.com/BigBang1112/gbx-io)
   - .. more to come!
 - [bigbang1112cz](https://github.com/bigbang1112/bigbang1112cz) - codename for my new WIP personal site made in Razor Pages
