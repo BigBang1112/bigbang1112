@@ -22,7 +22,7 @@ I do stuff under the alias BigBang1112 and/or Realnest.
   - [Revalidate](https://github.com/BigBang1112/revalidate) (API + frontend)
   - [Blender Gbx Tools](https://github.com/BigBang1112/blender-gbx-tools)
   - [Gbx I/O](https://github.com/BigBang1112/gbx-io)
-- **[TMWRR (World Record Report v3)]** - next generation tracker of Top 10 records (TM2020, TM2, and TMF) with a Discord bot
+- **[TMWRR (World Record Report v3)](https://github.com/BigBang1112/tmwrr)** - next generation tracker of Top 10 records (TM2020, TM2, and TMF) with a Discord bot
 - **[ManiaAPI.NET](https://github.com/BigBang1112/maniaapi-net)**
 - [Randomizer TMF](https://github.com/BigBang1112/randomizer-tmf) (maintenance mode)
 - [ManiaServerManager](https://github.com/BigBang1112/mania-server-manager)
