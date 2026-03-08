@@ -19,7 +19,7 @@ I do stuff under the alias BigBang1112 and/or Realnest.
 - **[GBX.NET](https://github.com/BigBang1112/gbx-net)** (Gbx Explorer + Discord Bot)
 - [gbx.tools](https://gbx.tools) (large set of online Trackmania / Nadeo game tools)
   - [3D Gbx Tools](https://github.com/BigBang1112/gbx-tools-3d) (three.js + Blazor)
-  - **[Nations Converter](https://github.com/BigBang1112/nations-converter)** (tool + website)
+  - **[Nations Converter](https://github.com/BigBang1112/nations-converter)** (tool + website, maintenance mode)
   - [Revalidate](https://github.com/BigBang1112/revalidate) (API + frontend)
   - [Blender Gbx Tools](https://github.com/BigBang1112/blender-gbx-tools)
   - [Gbx I/O](https://github.com/BigBang1112/gbx-io)
