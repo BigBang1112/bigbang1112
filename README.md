@@ -13,6 +13,7 @@ I do stuff under the alias BigBang1112 and/or Realnest.
 - [bigbang1112cz](https://github.com/bigbang1112/bigbang1112cz) - codename for my new WIP personal site made in Razor Pages
 - [MinimalXmlReader](https://github.com/BigBang1112/minimal-xmlreader)
 - [SimplestGitSourceGenerator](https://github.com/BigBang1112/simplest-git-source-generator)
+- [Workflows](https://github.com/BigBang1112/workflows)
 
 #### Trackmania / Nadeo games
 
@@ -28,6 +29,7 @@ I do stuff under the alias BigBang1112 and/or Realnest.
 - [Randomizer TMF](https://github.com/BigBang1112/randomizer-tmf) (maintenance mode)
 - [ManiaServerManager](https://github.com/BigBang1112/mania-server-manager)
 - [TmEssentials](https://github.com/BigBang1112/tm-essentials)
+- [TmScores](https://github.com/BigBang1112/tm-scores)
 - [ManiaScript Reference](https://github.com/BigBang1112/maniascript-reference)
 - [Gbx Addons for Windows File Explorer](https://github.com/BigBang1112/win-file-explorer-gbx-addons)
 - [World Record Report](https://github.com/bigbang1112-cz/world-record-report) (maintenance mode) - tracker of Top 10 records (TM2020, TM2, and TMF) with a Discord bot (in 240+ servers)
