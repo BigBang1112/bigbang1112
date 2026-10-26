@@ -26,7 +26,7 @@ I do stuff under the alias BigBang1112 and/or Realnest.
   - [Gbx I/O](https://github.com/BigBang1112/gbx-io)
 - **[TMWRR (World Record Report v3)](https://github.com/BigBang1112/tmwrr)** - next generation tracker of Top 10 records (TM2020, TM2, and TMF) with a Discord bot
 - **[ManiaAPI.NET](https://github.com/BigBang1112/maniaapi-net)**
-- [Randomizer TMF](https://github.com/BigBang1112/randomizer-tmf) (maintenance mode)
+- [Randomizer TMF](https://github.com/BigBang1112/randomizer-tmf) (end of maintenance)
 - [ManiaServerManager](https://github.com/BigBang1112/mania-server-manager)
 - [TmEssentials](https://github.com/BigBang1112/tm-essentials)
 - [TmScores](https://github.com/BigBang1112/tm-scores)
